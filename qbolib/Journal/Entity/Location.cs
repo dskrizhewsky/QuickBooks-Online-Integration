@@ -25,11 +25,11 @@
 #endregion
 using System;
 using System.Collections.Generic;
-using Automate.ExternalAccountingTools.Core;
+using Dmytro.Skryzhevskyi.ExternalAccountingTools.Core;
 using Intuit.Ipp.Core;
 using QBOData = Intuit.Ipp.Data;
 
-namespace Automate.ExternalAccountingTools.Journal.Entity
+namespace Dmytro.Skryzhevskyi.ExternalAccountingTools.Journal.Entity
 {
 
 

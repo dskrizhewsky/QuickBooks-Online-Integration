@@ -28,7 +28,7 @@ using System.Collections.Generic;
 using System.Collections.Immutable;
 using System.Linq;
 
-namespace Automate.ExternalAccountingTools.Journal.BatchResults
+namespace Dmytro.Skryzhevskyi.ExternalAccountingTools.Journal.BatchResults
 {
     public class JournalEntriesBatchResults
     {

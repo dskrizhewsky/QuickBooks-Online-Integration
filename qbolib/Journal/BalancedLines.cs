@@ -27,9 +27,9 @@ using System;
 using System.Collections.Generic;
 using System.Collections.Immutable;
 using System.Linq;
-using Automate.ExternalAccountingTools.Journal.Entity;
+using Dmytro.Skryzhevskyi.ExternalAccountingTools.Journal.Entity;
 
-namespace Automate.ExternalAccountingTools.Journal
+namespace Dmytro.Skryzhevskyi.ExternalAccountingTools.Journal
 {
     public class BalancedLines
     {

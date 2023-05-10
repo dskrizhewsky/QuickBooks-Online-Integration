@@ -29,16 +29,16 @@ using System.Collections.ObjectModel;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Automate.ExternalAccountingTools.Core;
-using Automate.ExternalAccountingTools.Journal;
-using Automate.ExternalAccountingTools.Journal.BatchResults;
-using Automate.ExternalAccountingTools.Journal.Entity;
+using Dmytro.Skryzhevskyi.ExternalAccountingTools.Core;
+using Dmytro.Skryzhevskyi.ExternalAccountingTools.Journal;
+using Dmytro.Skryzhevskyi.ExternalAccountingTools.Journal.BatchResults;
+using Dmytro.Skryzhevskyi.ExternalAccountingTools.Journal.Entity;
 using Intuit.Ipp.Core;
 using Intuit.Ipp.Core.Configuration;
 using Intuit.Ipp.QueryFilter;
 using QBOData = Intuit.Ipp.Data;
 
-namespace Automate.ExternalAccountingTools
+namespace Dmytro.Skryzhevskyi.ExternalAccountingTools
 {
     public interface IExternalRepository<T>
     {

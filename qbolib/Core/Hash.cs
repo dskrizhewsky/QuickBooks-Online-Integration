@@ -23,7 +23,7 @@
  * SOFTWARE.
 */
 #endregion
-namespace Automate.ExternalAccountingTools.Core
+namespace Dmytro.Skryzhevskyi.ExternalAccountingTools.Core
 {
     internal class Hash
     {

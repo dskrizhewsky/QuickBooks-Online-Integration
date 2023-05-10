@@ -26,10 +26,10 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using Automate.ExternalAccountingTools.Journal;
-using Automate.ExternalAccountingTools.Journal.Entity;
+using Dmytro.Skryzhevskyi.ExternalAccountingTools.Journal;
+using Dmytro.Skryzhevskyi.ExternalAccountingTools.Journal.Entity;
 
-namespace Automate.ExternalAccountingTools
+namespace Dmytro.Skryzhevskyi.ExternalAccountingTools
 {
     internal class ObjectCache
     {

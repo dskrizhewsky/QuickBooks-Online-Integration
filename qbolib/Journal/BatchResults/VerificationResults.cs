@@ -26,9 +26,9 @@
 using System;
 using System.Collections.Generic;
 using System.Collections.Immutable;
-using Automate.ExternalAccountingTools.Journal.Entity;
+using Dmytro.Skryzhevskyi.ExternalAccountingTools.Journal.Entity;
 
-namespace Automate.ExternalAccountingTools.Journal.BatchResults
+namespace Dmytro.Skryzhevskyi.ExternalAccountingTools.Journal.BatchResults
 {
     public class VerificationResults
     {

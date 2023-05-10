@@ -32,7 +32,7 @@ using Intuit.Ipp.DataService;
 using Intuit.Ipp.OAuth2PlatformClient;
 using Intuit.Ipp.Security;
 
-namespace Automate.ExternalAccountingTools
+namespace Dmytro.Skryzhevskyi.ExternalAccountingTools
 {
     
     public class Authorization

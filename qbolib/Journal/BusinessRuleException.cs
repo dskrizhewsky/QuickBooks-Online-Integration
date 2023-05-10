@@ -24,9 +24,9 @@
 */
 #endregion
 using System;
-using Automate.ExternalAccountingTools.Core;
+using Dmytro.Skryzhevskyi.ExternalAccountingTools.Core;
 
-namespace Automate.ExternalAccountingTools.Journal
+namespace Dmytro.Skryzhevskyi.ExternalAccountingTools.Journal
 {
     [Serializable]
     public class BusinessRuleException : QboLibException

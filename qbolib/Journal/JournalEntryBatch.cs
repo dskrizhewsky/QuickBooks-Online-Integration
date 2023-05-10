@@ -29,16 +29,16 @@ using System.Collections.Immutable;
 using System.Diagnostics;
 using System.Linq;
 using System.Threading;
-using Automate.ExternalAccountingTools.Journal.BatchResults;
-using Automate.ExternalAccountingTools.Journal.Entity;
+using Dmytro.Skryzhevskyi.ExternalAccountingTools.Journal.BatchResults;
+using Dmytro.Skryzhevskyi.ExternalAccountingTools.Journal.Entity;
 using Intuit.Ipp.Core;
 using Intuit.Ipp.DataService;
-using Account = Automate.ExternalAccountingTools.Journal.Entity.Account;
-using Customer = Automate.ExternalAccountingTools.Journal.Entity.Customer;
+using Account = Dmytro.Skryzhevskyi.ExternalAccountingTools.Journal.Entity.Account;
+using Customer = Dmytro.Skryzhevskyi.ExternalAccountingTools.Journal.Entity.Customer;
 using QBOData = Intuit.Ipp.Data;
-using Vendor = Automate.ExternalAccountingTools.Journal.Entity.Vendor;
+using Vendor = Dmytro.Skryzhevskyi.ExternalAccountingTools.Journal.Entity.Vendor;
 
-namespace Automate.ExternalAccountingTools.Journal
+namespace Dmytro.Skryzhevskyi.ExternalAccountingTools.Journal
 {
     internal class JournalEntryBatch
     {

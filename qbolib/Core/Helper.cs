@@ -38,7 +38,7 @@ using Intuit.Ipp.Exception;
 using Intuit.Ipp.QueryFilter;
 using Intuit.Ipp.ReportService;
 
-namespace Automate.ExternalAccountingTools.Core
+namespace Dmytro.Skryzhevskyi.ExternalAccountingTools.Core
 {
     internal class Helper
     {

@@ -26,7 +26,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace Automate.ExternalAccountingTools.Journal.Entity
+namespace Dmytro.Skryzhevskyi.ExternalAccountingTools.Journal.Entity
 {
     public class ReferenceName : IEquatable<ReferenceName>, IEqualityComparer<ReferenceName>
     {

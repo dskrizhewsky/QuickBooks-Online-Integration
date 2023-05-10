@@ -25,7 +25,7 @@
 #endregion
 using System;
 
-namespace Automate.ExternalAccountingTools.Core
+namespace Dmytro.Skryzhevskyi.ExternalAccountingTools.Core
 {
     public class QboLibException : Exception
     {

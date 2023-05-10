@@ -1,7 +1,7 @@
 ﻿using System;
-using Automate.ExternalAccountingTools.Journal.Entity;
+using Dmytro.Skryzhevskyi.ExternalAccountingTools.Journal.Entity;
 
-namespace Automate.ExternalAccountingTools.Journal
+namespace Dmytro.Skryzhevskyi.ExternalAccountingTools.Journal
 {
     #region Copyright Notice
 /*
